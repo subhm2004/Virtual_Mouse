@@ -23,7 +23,7 @@ Before running the code, make sure you have the following dependencies installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/baukk/Gesture-Recognition.git
+   git clone https://github.com/subhm2004/Virtual_Mouse
    ```
 
 2. Navigate to the project directory:
