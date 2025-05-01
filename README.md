@@ -29,7 +29,7 @@ Before running the code, make sure you have the following dependencies installed
 2. Navigate to the project directory:
 
    ```bash
-   cd Gesture-Recognition
+   cd Virtual_Mouse
    ```
 
 3. Run the code:
@@ -64,4 +64,4 @@ This project uses the [MediaPipe](https://mediapipe.dev/) library for hand landm
 
 Feel free to contribute to this project and make it even more awesome! If you have any questions or suggestions, please open an issue or pull request.
 
-Enjoy controlling your computer with hand gestures! 🖐️🖥️
+Enjoy controlling your computer with hand....
